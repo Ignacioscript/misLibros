@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "609257914169",
+    "project_id": "mis-libros-57fe5",
+    "storage_bucket": "mis-libros-57fe5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:609257914169:android:d78c0110b07d51185b72e8",
+        "android_client_info": {
+          "package_name": "com.ignacioscript.mis_libros"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "609257914169-d1ts0rh2or0t1vdfinign8tl9pe5iqml.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFJJhfZ6Dryzqpn3Maa3MipC5f2oLZf8Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "609257914169-d1ts0rh2or0t1vdfinign8tl9pe5iqml.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
